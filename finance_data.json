@@ -1,0 +1,32 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "type": "income",
+            "amount": 3000.0,
+            "category": "Salary",
+            "date": "2026-09-26",
+            "note": "Pocket Money"
+        }
+    ],
+    "categories": {
+        "income": [
+            "Salary",
+            "Allowance",
+            "Freelance",
+            "Gift",
+            "Other"
+        ],
+        "expense": [
+            "Food",
+            "Transport",
+            "Education",
+            "Healthcare",
+            "Entertainment",
+            "Shopping",
+            "Utilities",
+            "Other"
+        ]
+    },
+    "budgets": {}
+}
